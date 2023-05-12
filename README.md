@@ -15,5 +15,6 @@ I released the source code later than expected, which sucks considering I only s
 - Hourglass will restore a certain amount of time rather than capping at 10.
 - Fix a bug where enemies can be hit multiple times, causing the player to restore 2-3 seconds(at higher levels).
 - New enemy types(possibly).
+- Sound effects.
 
 Despite the license, you are still allowed to modify the code to your liking and redistribute it anywhere you'd like, though it is preferred that you give credit where it's due. 
